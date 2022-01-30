@@ -1,0 +1,6 @@
+fasce orarie:
+ - fascia 1: prima delle 9:59
+ - fascia 2: dalle 10 alle 12:59
+ - fascia 3: dalle 13 alle 16:59
+ - fascia 4: dalle 17 alle 19:59
+ - fascia 5: dopo le 20 

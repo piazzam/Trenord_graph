@@ -1,0 +1,9 @@
+file map:
+	- my_library.py --> libreria costruita per lo scopo del progetto, contiene tutte le funzioni utilizzate
+	- graph.py --> contiene le analisi relative al task 2
+	- explore.py --> contiene la costruzione del grafo per il task 2
+	- orari.py --> consente di calcolare i carichi per le divrse fasce orarie
+	- rete_stazioni.py --> contiene la costruzione del grafo per il task 1
+	- attack.py --> contiene le analisi relative alle varie tipologie di attacco
+	- dash.py --> contiene la dash realizzata
+	
