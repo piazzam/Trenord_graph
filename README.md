@@ -20,6 +20,10 @@ The objective of this project was the analysis of the Trenord Station graph base
 ## &#9741; &nbsp; References
 The dataset used as starting point to building the network is available at https://transitfeeds.com/p/trenord/724/latest. Others references are specified in the relation of our work. 
 
+<a name="data"></a>
+## &#9741; &nbsp; Data
+The data used for this project are available in the Data folder
+
 <a name="relation"></a>
 ## &#9741; &nbsp; Relation and presentation
 The relation of this project and the presentation are available in the Relation and presentation folder.
