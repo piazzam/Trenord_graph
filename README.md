@@ -22,7 +22,7 @@ The dataset used as starting point to building the network is available at https
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-The data used for this project are available in the Data folder
+The data used for this project are available in the Data folder. In the "raw" folder are contained raw data used as starting point. In the "data" folder are contained data pre-processed for the first task and in the "dataV2" folder are contained data pre-processed for the second task. 
 
 <a name="relation"></a>
 ## &#9741; &nbsp; Relation and presentation
